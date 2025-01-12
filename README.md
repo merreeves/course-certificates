@@ -1,2 +1,3 @@
 # course-certificates
-for chem 3pa3
+
+The purpose of this repo is to store my LinkedIn Learning Certificates
